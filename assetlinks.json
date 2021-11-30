@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fancymasters.secretdrawnames",
+    "sha256_cert_fingerprints":
+    ["C0:00:BC:29:8D:91:50:23:AC:BC:6A:BD:C1:76:E3:1A:C4:4E:E7:58:48:1D:C7:5D:E8:27:C8:75:4B:D5:02:E4"]
+  }
+}]
